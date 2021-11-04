@@ -36,7 +36,7 @@ gem 'therubyracer'
 gem 'autoprefixer-rails', '8.6.5'
 gem 'kaminari'
 gem 'rails-i18n'
-
+gem 'rubocop-rails', require: false
 
 
 group :development, :test do
